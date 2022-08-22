@@ -1,6 +1,8 @@
 # docfx-seed
 [![Build status](https://ci.appveyor.com/api/projects/status/psjd5g56kr0vayiw?svg=true)](https://ci.appveyor.com/project/qinezh/docfx-seed)
 
+View the GitHub Pages site at https://jwalters30.github.io/docfx-seed-ghec-actions/ 
+
 ## Description
 This is a sample docfx documentation project. It contains .NET source code and markdown files.
 `docfx.json` is the configuration file for running `docfx`.
